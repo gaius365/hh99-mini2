@@ -23,7 +23,7 @@ Mail Box 형태의 UI에서 친숙함을 느껴보세요!
 
 >**[Front-End Repository](https://github.com/kevinkim910408/mini6_frontend)
 ><br>
->[시연영상 구경하기 - URL 바꿔야함](https://github.com/insidelamp)
+>[시연영상 바로가기](https://youtu.be/-YiTkzAMPk0)
 ><br>
 >[팀 노션](https://www.notion.so/SA-6-5cd78501002f4ac39ffede51c0e3f829)**
 
